@@ -5,3 +5,5 @@
 ## [H6 - Basics of Transaction Management](./H6_Transaction_Management/H6.md)
 
 ## [H7 - DWH + BI](./H7_DWH_BI/H7.md)
+
+## [H8 - NoSQL](./H8_NoSQL/H8.md)
